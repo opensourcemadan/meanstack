@@ -1,2 +1,2 @@
-# meanstack
+# MeanStack
 Learning Mean Stack
